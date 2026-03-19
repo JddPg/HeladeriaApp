@@ -1,4 +1,4 @@
-namespace HeladeriaApp.Servicios;
+namespace HeladeriaApp;
 
 public interface ICrud<T>
 {
