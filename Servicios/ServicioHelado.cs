@@ -1,6 +1,4 @@
-using HeladeriaApp.Modelo;
-
-namespace HeladeriaApp.Servicios;
+namespace HeladeriaApp;
 
 public class ServicioHelado : ICrud<Helado>
 {

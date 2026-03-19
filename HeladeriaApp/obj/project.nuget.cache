@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tXzc4U84urM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zero-\\OneDrive\\Documentos\\HeladeriaApp\\HeladeriaApp\\HeladeriaApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zero-\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

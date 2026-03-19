@@ -1,2 +1,5 @@
 <Solution>
+  <Project Path="HeladeriaApp/HeladeriaApp.csproj" />
+  <Project Path="Modelo/Modelo.csproj" />
+  <Project Path="Servicios/Servicios.csproj" />
 </Solution>

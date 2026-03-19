@@ -1,4 +1,4 @@
-namespace HeladeriaApp.Modelo;
+namespace HeladeriaApp;
 
 public class Cliente : Persona
 {
