@@ -1,4 +1,4 @@
-#  Sistema de Gestión de Heladería
+###  Sistema de Gestión de Heladería
 
 ##  Descripción del sistema
 
@@ -12,7 +12,7 @@
 #El objetivo es aplicar los conceptos de Programación Orientada a Objetos (POO) y el uso de persistencia de datos mediante archivos CSV.
 
 
-## 🧠 Conceptos de POO implementados
+## Conceptos de POO implementados
 
 #- Herencia: Cliente hereda de Persona  
 #- Asociación: Pedido está relacionado con Cliente  
